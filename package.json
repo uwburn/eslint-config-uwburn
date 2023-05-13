@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-uwburn",
+  "description": "My very custom ESLint configuration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": { 
+    "name" : "Michele Tibaldi", 
+    "url" : "https://github.com/uwburn/"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/uwburn/eslint-config-uwburn.git"
+  },
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "eslint-plugin-jest": "^27.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
